@@ -1,0 +1,3 @@
+C:/Users/Felhasznalo/CLionProjects/AOC23/cmake-build-debug/CMakeFiles/AOC23.dir
+C:/Users/Felhasznalo/CLionProjects/AOC23/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Felhasznalo/CLionProjects/AOC23/cmake-build-debug/CMakeFiles/rebuild_cache.dir
