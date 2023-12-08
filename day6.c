@@ -11,12 +11,12 @@ void TACTICS() {
         }
         sum *= currSum;
     }
-    printf("sepsum: %d\n", sum);
+    printf("SEPARATE SUM: %d\n", sum);
     unsigned long long int time2 = 61677571;
     unsigned long long int dist2 = 430103613071150;
     sum = 0;
     for (int i = 0; i <= time2; ++i) {
         if (-(i - time2) * i > dist2) sum++;
     }
-    printf("bigsum: %d", sum);
+    printf("LARGE SUM: %d", sum);
 }
